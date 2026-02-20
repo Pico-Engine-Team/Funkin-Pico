@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AgotiNEW.png"><SubTexture name="AgotiNEW idle0000" x="0" y="0" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW idle0001" x="2887" y="0" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW idle0002" x="5774" y="0" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW idle0003" x="8661" y="0" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW idle0004" x="0" y="2635" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW idle0005" x="2887" y="2635" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW down0000" x="5774" y="2635" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW down0001" x="8661" y="2635" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW down0002" x="0" y="5270" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW right0000" x="2887" y="5270" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW right0001" x="5774" y="5270" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW right0002" x="8661" y="5270" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW up0000" x="0" y="7905" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW up0001" x="2887" y="7905" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW up0002" x="5774" y="7905" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW left0000" x="8661" y="7905" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW left0001" x="0" y="10540" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW left0002" x="2887" y="10540" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+<SubTexture name="AgotiNEW left0003" x="5774" y="10540" width="2887" height="2635" frameX="0" frameY="0" frameWidth="2887" frameHeight="2635" />
+</TextureAtlas>
