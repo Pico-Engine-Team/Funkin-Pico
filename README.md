@@ -1,4 +1,4 @@
-# FNF Pico Engine
+# FNF PicoEngine
 ![Logo](art/PicoEngineModArt.png)
 - [Mod also on Gamejolt](https://gamejolt.com/games/Pico-Engine/948902)
 
