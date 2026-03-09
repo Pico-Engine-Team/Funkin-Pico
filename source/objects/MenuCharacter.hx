@@ -3,7 +3,8 @@ package objects;
 import openfl.utils.Assets;
 import haxe.Json;
 
-typedef MenuCharacterFile = {
+typedef MenuCharacterFile =
+{
 	var image:String;
 	var scale:Float;
 	var position:Array<Int>;
@@ -26,7 +27,8 @@ class MenuCharacter extends FlxSprite
 		changeCharacter(character);
 	}
 
-	public function changeCharacter(?character:String = 'bf') {
+	public function changeCharacter(?character:String = 'bf')
+	{
 		if(character == null) character = '';
 		if(character == this.character) return;
 
@@ -46,7 +48,7 @@ class MenuCharacter extends FlxSprite
 				visible = false;
 				dontPlayAnim = true;
 			default:
-				var characterPath:String = 'images/menucharacters/' + character + '.json';
+				var characterPath:String = 'images/storymenu/props/characters/' + character + '.json';
 
 				var path:String = Paths.getPath(characterPath, TEXT);
 				#if MODS_ALLOWED
@@ -74,7 +76,7 @@ class MenuCharacter extends FlxSprite
 					trace('Error loading menu character file of "$character": $e');
 				}
 
-				frames = Paths.getSparrowAtlas('menucharacters/' + charFile.image);
+				frames = Paths.getSparrowAtlas('storymenu/props/' + charFile.image);
 				animation.addByPrefix('idle', charFile.idle_anim, 24);
 
 				var confirmAnim:String = charFile.confirm_anim;
